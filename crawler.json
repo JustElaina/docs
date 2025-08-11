@@ -1,6 +1,6 @@
 {
-  "index_name": "vitepress-template",
-  "start_urls": ["https://example.com/"],
+  "index_name": "documentation",
+  "start_urls": ["https://justelaina.github.io/docs/"],
   "rateLimit": 8,
   "maxDepth": 10,
   "selectors": {
