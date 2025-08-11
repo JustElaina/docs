@@ -22,7 +22,7 @@ export default defineConfig({
       },
     ],
 
-    search: { options: searchOptions() },
+    // search: { options: searchOptions() },
 
     docFooter: {
       prev: "上一页",
