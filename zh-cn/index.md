@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-    name: "VitePress"
+    name: "伊雷娜"
     text: "VitePress 网站"
     tagline: 我的项目标语
     actions:
